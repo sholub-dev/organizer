@@ -1,0 +1,6 @@
+items.json
+.notified.json
+app/Organizer.app/
+__pycache__/
+runs.json
+runs/
